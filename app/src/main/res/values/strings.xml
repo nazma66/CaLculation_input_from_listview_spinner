@@ -1,0 +1,4 @@
+<resources>
+    <string name="selecteditem" />
+    <string name="app_name">CaLculation_input_from_listview_spinner</string>
+</resources>
